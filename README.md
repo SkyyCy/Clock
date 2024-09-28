@@ -1,6 +1,6 @@
 # Clock
 
-Project  of Wes Bos's 30 JavaScript projects in 30 days
+Project 2 of Wes Bos's 30 JavaScript projects in 30 days
 
 Welcome to my Clock using JS and CSS Project!
 
